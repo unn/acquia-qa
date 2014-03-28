@@ -6,7 +6,7 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            'Aquia QA'
+title:            'Acquia QA'
 tagline:          'Acquia QA'
 paginate:         5
 baseurl:          '/acquiaqa'
