@@ -1,9 +1,11 @@
-title:        'Acquia QA'
-tagline:      'Acquia QA'
-author:
-  name:       ''
-  email:      ''
-markdown:     rdiscount
-permalink:    pretty
-pygments:     true
-paginate:     5
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'Aquia QA'
+tagline:          'Acquia QA'
+paginate:         5
