@@ -9,3 +9,4 @@ permalink:        pretty
 title:            'Aquia QA'
 tagline:          'Acquia QA'
 paginate:         5
+baseurl:          '/acquiaqa'
