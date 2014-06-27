@@ -1,3 +1,7 @@
-## Locally
+## Installing locally
 
-`jekyll serve --watch --baseurl '' &`
+`bundle install`
+
+## Running locally
+
+`bundle exec jekyll serve --watch --baseurl '' &`
